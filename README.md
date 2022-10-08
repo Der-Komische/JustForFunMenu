@@ -4,7 +4,7 @@ Tutorial
 
 1.Drücke auf JFFM.bat
 
-2.wähle ein der vorgegebenen commands aus
+2.gebe ein der vorgegebenen commands ein
 
 3.Spaß haben :)
 
