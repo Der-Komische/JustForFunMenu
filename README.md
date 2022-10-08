@@ -1,4 +1,4 @@
-JFFM - Just For Fun
+JFFM - Just For Fun Menu
 
 Fetures
 shutdown - tut den pc in 10 sek herunterfahren
