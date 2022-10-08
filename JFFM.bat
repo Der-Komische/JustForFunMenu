@@ -63,5 +63,5 @@ echo Bist du dir sicher? wenn ja druecke Leertaste
 @pause
 echo Wirklich?! wenn ja druecke Leertaste
 @pause
-start Crash.bat
+start crash.bat
 
