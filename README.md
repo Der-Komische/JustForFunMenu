@@ -6,7 +6,7 @@ Tutorial
 
 2.wähle ein der vorgegebenen commands aus
 
-3.Spaß
+3.Spaß haben :)
 
 Fetures
 shutdown - tut den pc in 10 sek herunterfahren
