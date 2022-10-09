@@ -10,6 +10,7 @@ echo shutdown - schaltet den pc aus
 echo starwars - Starwars Battlefront 2 Spielen
 echo predator - Preador Hunting Grounds Spielen
 echo crash - Warnung kann zum absturz fueren
+echo fun - Spaß!
 echo ------------------------------------------
 
 
@@ -22,6 +23,7 @@ if "%command%" == "shutdown"  goto command3
 if "%command%" == "starwars"  goto command4
 if "%command%" == "predator"  goto command5
 if "%command%" == "crash"  goto command6
+if "%command%" == "fun"  goto command7
 echo bitte gib ein Vorgegebenen command ein.
 @pause
 cls
@@ -64,4 +66,11 @@ echo Bist du dir sicher? wenn ja druecke Leertaste
 echo Wirklich?! wenn ja druecke Leertaste
 @pause
 start crash.bat
+
+:command7
+echo hast du Python 3.10 installiert. wenn ja druee leertaste
+@pause
+start fun.py
+
+goto end
 
