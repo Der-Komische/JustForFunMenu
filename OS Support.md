@@ -4,4 +4,6 @@ OS Support
 | -------    | ------------------ |
 | Windows 10 | :white_check_mark: |
 | Linux      | :x:                |
+| Android    | :x:                |
+| IOS        | :x:                |
 
