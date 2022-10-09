@@ -10,7 +10,7 @@ echo shutdown - schaltet den pc aus
 echo starwars - Starwars Battlefront 2 Spielen
 echo predator - Preador Hunting Grounds Spielen
 echo crash - Warnung kann zum absturz fueren
-echo fun - Spaß!
+echo fun - Spas!
 echo ------------------------------------------
 
 
