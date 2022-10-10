@@ -9,7 +9,7 @@ echo hallo - sagt hallo
 echo shutdown - schaltet den pc aus
 echo crash - Warnung kann zum absturz fueren
 echo fun - Spas!
-echo quest - du kannst eine aufgabe für dich erstellen
+echo quest - du kannst eine aufgabe fuer dich erstellen
 echo ------------------------------------------
 
 
