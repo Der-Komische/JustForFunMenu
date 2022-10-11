@@ -11,6 +11,7 @@ echo crash - Warnung kann zum absturz fueren
 echo fun - Spas!
 echo quest - du kannst eine aufgabe fuer dich erstellen
 echo aufgabe - hier kannst du sehen welche aufgaben du hast
+echo remove - deine aufgabe wird entfernt
 echo ------------------------------------------
 
 
@@ -24,6 +25,7 @@ if "%command%" == "crash"  goto command4
 if "%command%" == "fun"  goto command5
 if "%command%" == "quest"  goto command6
 if "%command%" == "aufgabe"  goto command7
+if "%command%" == "remove"  goto command8
 echo bitte gib ein Vorgegebenen command ein.
 @pause
 cls
@@ -75,5 +77,11 @@ goto end
 echo hast du Python 3.10 installiert. wenn ja druee leertaste
 @pause
 start quest.py
+goto end
+
+:command8
+echo hast du Python 3.10 installiert. wenn ja druee leertaste
+@pause
+start entfernen.py
 goto end
 
