@@ -9,7 +9,7 @@ Tutorial:
 3.Spaß haben :)
 ```
 
-Fetures:
+Commands:
 
 ```
 exit - Beenden
@@ -22,4 +22,4 @@ remove - deine aufgabe wird entfernt
 shutdown - tut den pc in 10 sek herunterfahren
 crash - öffnet ganz viele anwendungen und bringt den pc zum absturz, ich übernehme keine haftung ihr werdet 2 mal gewarnt
 ```
-und mehr
+mehr kommt später
