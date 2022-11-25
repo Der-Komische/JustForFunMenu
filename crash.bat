@@ -1,5 +1,5 @@
 @echo off
-start Crasch.bat
+start crash.bat
 start fun.py
 echo Crasch wird ausgefuert
 echo Crasch wird ausgefuert
