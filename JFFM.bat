@@ -26,6 +26,7 @@ if "%command%" == "fun"  goto command5
 if "%command%" == "quest"  goto command6
 if "%command%" == "aufgabe"  goto command7
 if "%command%" == "remove"  goto command8
+if "%command%" == "cd"  goto command9
 echo bitte gib ein Vorgegebenen command ein.
 @pause
 cls
@@ -83,5 +84,11 @@ goto end
 echo hast du Python 3.10 installiert. wenn ja druee leertaste
 @pause
 start entfernen.py
+goto end
+
+:command9
+echo hast du Python 3.10 installiert. wenn ja druee leertaste
+@pause
+start Countdown.py
 goto end
 
